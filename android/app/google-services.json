@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467991899360",
+    "project_id": "armlchat",
+    "storage_bucket": "armlchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467991899360:android:daaa90a7cad05ecc2ab485",
+        "android_client_info": {
+          "package_name": "com.example.arml_messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467991899360-fbvi46gi0fmv9ch6nfgngbc9diqgnkfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4WVpNNjNoXIy718ndj6PPTzKglZ_Q-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467991899360-fbvi46gi0fmv9ch6nfgngbc9diqgnkfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
